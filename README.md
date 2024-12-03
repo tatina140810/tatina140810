@@ -31,6 +31,7 @@ Personal Projects: RadioApp, ToDoList, Weather, FlashCards
 Internship at Geeks
 _____________________________________________________________________________________________________
 Application development for a disinfection, pest control, and rat extermination company Dezis
+Used Moya, Reachability, SnapKit, KeychainSwift
 
 Developed user interface using UIKit and Auto Layout
 Worked with REST API to retrieve data
