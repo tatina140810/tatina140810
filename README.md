@@ -26,7 +26,7 @@ KGTU, Bishkek
 
 Work Experience
 _____________________________________________________________________________________________________
-Personal Projects: ToDoList, Weather, FlashCards
+Personal Projects: RadioApp, ToDoList, Weather, FlashCards
 
 Internship at Geeks
 _____________________________________________________________________________________________________
