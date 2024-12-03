@@ -17,7 +17,7 @@ ________________________________________________________________________________
 Programming Languages: Swift, basic knowledge of Python
 Development Tools: Xcode, Git, CocoaPods
 Frameworks: UIKit, Foundation, CoreData
-Technologies: Auto Layout, REST API, JSON, MVC, MVP, basic understanding of MVVM, working with databases (Core Data, Realm)
+Technologies: Auto Layout, REST API, JSON, MVC, MVP, MVVM and MVVMC working with databases (Core Data, Realm)
 Version Control: Git, GitHub, GitLab
 Development Methodologies: Basic knowledge of TDD
 Education
