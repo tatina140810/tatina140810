@@ -26,9 +26,12 @@ KGTU, Bishkek
 
 Work Experience
 _____________________________________________________________________________________________________
-Personal Projects: RadioApp, ToDoList, Weather, FlashCards
+January 2024 Personal Projects: ToDoList, Weather, FlashCards
+July 2024 RadioApp
 
-Internship at Geeks
+from August 2024 Internship at Geeks. "Dezis" project
+
+from Nivember 2024 Internship at Guild of Developers "Sis" project
 _____________________________________________________________________________________________________
 Application development for a disinfection, pest control, and rat extermination company Dezis
 Used Moya, Reachability, SnapKit, KeychainSwift
