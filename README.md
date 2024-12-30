@@ -20,9 +20,15 @@ Frameworks: UIKit, Foundation, CoreData
 Technologies: Auto Layout, REST API, JSON, MVC, MVP, MVVM and MVVMC working with databases (Core Data, Realm)
 Version Control: Git, GitHub, GitLab
 Development Methodologies: Basic knowledge of TDD
+
 Education
-Bachelor’s Degree in Management
+____________________________________________________________________________________________________________
+1. Bachelor’s Degree in Management
 KGTU, Bishkek
+2. Primary school teacher
+Chuy University, Bishkek
+3. Geeks, Bishkek - IOS Developer
+4. SwiftBook - IOS Developer(online)
 
 Work Experience
 _____________________________________________________________________________________________________
