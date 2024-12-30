@@ -19,6 +19,7 @@ Development Tools: Xcode, Git, CocoaPods
 Frameworks: UIKit, Foundation, CoreData
 Technologies: Auto Layout, REST API, JSON, MVC, MVP, MVVM and MVVMC working with databases (Core Data, Realm)
 Version Control: Git, GitHub, GitLab
+Jira, Kaiten
 Development Methodologies: Basic knowledge of TDD
 
 Education
@@ -27,8 +28,6 @@ ________________________________________________________________________________
 KGTU, Bishkek
 2. Primary school teacher
 Chuy University, Bishkek
-3. Geeks, Bishkek - IOS Developer
-4. SwiftBook - IOS Developer(online)
 
 Work Experience
 _____________________________________________________________________________________________________
@@ -44,9 +43,11 @@ Used Moya, Reachability, SnapKit, KeychainSwift
 
 Developed user interface using UIKit and Auto Layout
 Worked with REST API to retrieve data
+_________________________________________________________________________________________________________________
 Courses and Certificates
 Geeks - "iOS Developer"
 Udemy - iOS App Development Bootcamp
+SwiftBook - Ios developer
 Udemy - Python 100 Days
 JavaRush
 
