@@ -1,77 +1,82 @@
-Phone: +996558055780
 
-Email: tatinaiosdev@gmail.com
+# **Tatina Dzhakypbekova**  
+📞 **Phone:** +996 558 055 780  
+✉️ **Email:** tatinaiosdev@gmail.com  
+💬 **Telegram:** [@tatinadz](https://t.me/tatinadz)  
+💻 **GitHub:** [github.com/tatina140810](https://github.com/tatina140810)  
+🌐 **LinkedIn:** [linkedin.com/in/tatina-dzhakypbekova-290094331/](https://www.linkedin.com/in/tatina-dzhakypbekova-290094331/)  
 
-Telegram: @tatinadz
+---
 
-Profile
-_____________________________________________________________________________________________________
+## **Profile**  
+Motivated and passionate **iOS Developer** with a strong foundation in Swift and experience in building iOS applications. Always eager to learn and apply best practices in iOS development while solving challenging tasks.  
 
-Goal-oriented and passionate iOS developer with foundational knowledge in Swift and hands-on experience 
-creating iOS applications. Highly motivated to develop professionally and eager to tackle complex
-challenges using best practices in iOS development.
+---
 
+## **Skills**  
+- **Programming Languages:** Swift, basic knowledge of Python  
+- **Development Tools:** Xcode, Git, CocoaPods  
+- **Frameworks:** UIKit, Foundation, Core Data  
+- **Technologies:** Auto Layout, REST API, WebSocket  
+- **Architectures:** MVC, MVP, MVVM, MVVMC, VIPER  
+- **Version Control:** Git, GitHub, GitLab  
+- **Development Methodologies:** Basic knowledge of TDD, UI/Unit Testing  
+- **Data Storage:** Keychain, UserDefaults  
 
-Skills
-_____________________________________________________________________________________________________
-Programming Languages: Swift, basic knowledge of Python
-Development Tools: Xcode, Git, CocoaPods
-Frameworks: UIKit, Foundation, CoreData
-Technologies: Auto Layout, REST API, JSON, MVC, MVP, MVVM and MVVMC working with databases (Core Data, Realm)
-Version Control: Git, GitHub, GitLab
-Jira, Kaiten
-Development Methodologies: Basic knowledge of TDD
+---
 
-Education
-____________________________________________________________________________________________________________
-1. Bachelor’s Degree in Management
-KGTU, Bishkek
-2. Primary school teacher
-Chuy University, Bishkek
+## **Education**  
+🎓 **Bachelor’s Degree in Management**  
+Kyrgyz State Technical University, Bishkek  
 
-Work Experience
-_____________________________________________________________________________________________________
-January 2024 Personal Projects: ToDoList, Weather, FlashCards
-July 2024 RadioApp
+---
 
-from August 2024 Internship at Geeks. "Dezis" project
+## **Work Experience**  
 
-from Nivember 2024 Internship at Guild of Developers "Sis" project
-_____________________________________________________________________________________________________
-Application development for a disinfection, pest control, and rat extermination company Dezis
-Used Moya, Reachability, SnapKit, KeychainSwift
+### **Pet Projects**  
+Developed several applications:  
+- **ToDoList** – Task management application  
+- **Weather** – Weather forecasting application  
+- **FlashCards** – Flashcard-based learning app  
 
-Developed user interface using UIKit and Auto Layout
-Worked with REST API to retrieve data
-_________________________________________________________________________________________________________________
-Courses and Certificates
-Geeks - "iOS Developer"
-Udemy - iOS App Development Bootcamp
-SwiftBook - Ios developer
-Udemy - Python 100 Days
-JavaRush
+---
 
-Achievements and Interests
-_____________________________________________________________________________________________________
-Regularly read articles and take courses on Coursera and Udemy to enhance my skills.
-Interested in application development using modern technologies and frameworks.
-Junior Team Lead in an internship development team.
+### **Internship at GeeksPro**  
+**Project:** Development of the **Dezis** application for a company specializing in disinfection, pest control, and rodent control services.  
+📌 **Role:** iOS Team Lead, responsible for **82% of the app's functionality**.  
 
-Additional Information
-_____________________________________________________________________________________________________
-Quick to learn new technologies and tools.
-Team player with strong communication skills.
-English proficiency level: Intermediate
-Ready to complete a test assignment and attend an interview.
+#### **Key Responsibilities & Achievements:**  
+- Developed the user interface using **UIKit** and **Auto Layout**.  
+- Integrated **REST API** for data retrieval.  
+- Utilized libraries such as **SnapKit, KeychainSwift, Moya, ReachabilitySwift, JWTDecode, SDWebImage**.  
+- Implemented a **chat system** between clients and administrators using **WebSocket**.  
+- Designed **registration and authentication forms** for users.  
+- Developed a **service booking system** with date and time selection.  
 
+📌 **Status:** The application is currently **under review** before release on the **App Store**.  
 
+---
 
+## **Courses & Certifications**  
+- **iGeeks** – *“iOS Developer”*  
+- **SweeftBook.org** – *iOS Development Course*  
+- **Udemy** – *iOS App Development Bootcamp*  
+- **Udemy** – *100 Days of Python*  
 
+---
 
+## **Achievements & Interests**  
+- Regularly study new technologies and take courses on **Coursera** and **Udemy**.  
+- Passionate about iOS development, modern frameworks, and architectural patterns.  
 
+---
 
+## **Additional Information**  
+✔️ Fast learner, always eager to explore new technologies and tools.  
+✔️ Strong teamwork and communication skills.  
+✔️ **English level:** Intermediate (B1-B2).  
 
+💡 **Open to technical assessments and interviews.** 🚀  
 
-
-
+---
 
